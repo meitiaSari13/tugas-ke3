@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368654758817",
+    "project_id": "pelatihanmobile-46d86",
+    "storage_bucket": "pelatihanmobile-46d86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368654758817:android:a2f75b67ae2dbf8925d1e0",
+        "android_client_info": {
+          "package_name": "com.example.fluter_apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmfVhG_GOaLP-j-RE_ae7Ms1Bz-o2pnA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
